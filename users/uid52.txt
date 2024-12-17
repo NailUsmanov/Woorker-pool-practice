@@ -1,0 +1,21 @@
+UID: 52; Email: user52@company.com;
+Activity Log:
+0. [deleted record] at 2024-12-17T18:39:39+03:00
+1. [created record] at 2024-12-17T18:39:39+03:00
+2. [deleted record] at 2024-12-17T18:39:39+03:00
+3. [deleted record] at 2024-12-17T18:39:39+03:00
+4. [logged out] at 2024-12-17T18:39:39+03:00
+5. [created record] at 2024-12-17T18:39:39+03:00
+6. [created record] at 2024-12-17T18:39:39+03:00
+7. [logged in] at 2024-12-17T18:39:39+03:00
+8. [logged out] at 2024-12-17T18:39:39+03:00
+9. [logged in] at 2024-12-17T18:39:39+03:00
+10. [logged in] at 2024-12-17T18:39:39+03:00
+11. [logged in] at 2024-12-17T18:39:39+03:00
+12. [logged out] at 2024-12-17T18:39:39+03:00
+13. [deleted record] at 2024-12-17T18:39:39+03:00
+14. [deleted record] at 2024-12-17T18:39:39+03:00
+15. [created record] at 2024-12-17T18:39:39+03:00
+16. [created record] at 2024-12-17T18:39:39+03:00
+17. [deleted record] at 2024-12-17T18:39:39+03:00
+18. [deleted record] at 2024-12-17T18:39:39+03:00
